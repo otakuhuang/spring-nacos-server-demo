@@ -1,0 +1,13 @@
+package com.otakuhuang.springnacosserverdemo;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class SpringNacosServerDemoApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}
